@@ -5,8 +5,8 @@
 <b>V 2.0</b></H1>
 
 
-<b>by Owen S. Wangensteen (UiT, The Arctic University of Norway)
-  &amp Adrià Antich (Centre for Advanced Studies of Blanes, CEAB-CSIC).</b>
+<b>by Owen S. Wangensteen (UiT, The Arctic University of Norway)<br>
+  & Adrià Antich (Centre for Advanced Studies of Blanes, CEAB-CSIC).</b>
 
 
 <b>WARNING:  MJOLNIR 2 IS STILL WORK IN PROGRESS</b>
